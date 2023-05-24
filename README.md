@@ -3,6 +3,6 @@
 
 This bot can recognize specific parameters from long texts and respond
 * download bot:<br>
-git cline https://github.com/Mr-Banana-2045/Chat_bot_us<br>
+git clone https://github.com/Mr-Banana-2045/Chat_bot_us<br>
 cd Chat_bot_us<br>
 python3 bot_python_chat
