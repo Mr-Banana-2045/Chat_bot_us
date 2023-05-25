@@ -3,4 +3,6 @@
 
 This bot can recognize specific parameters from long texts and respond
 
-* bot Python<br>* bot Cpp<br>* bot Javascript
+* bot Python<br>
+* bot Cpp<br>
+* bot Javascript
